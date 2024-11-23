@@ -1,0 +1,11 @@
+Model Information:
+* title:	Construction helmet
+* source:	https://sketchfab.com/3d-models/construction-helmet-83743fb594274f75965cb71ca0730d75
+* author:	Nol22 (https://sketchfab.com/manoloescobedo22)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Construction helmet" (https://sketchfab.com/3d-models/construction-helmet-83743fb594274f75965cb71ca0730d75) by Nol22 (https://sketchfab.com/manoloescobedo22) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
